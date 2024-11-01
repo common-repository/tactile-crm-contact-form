@@ -1,0 +1,26 @@
+#tactile label{
+font-size: 12px;
+}
+
+#tactile input, 
+#tactile textarea{
+display: block;
+margin-bottom: 3px;
+}
+
+#tactile textarea{
+height: 100px;
+}
+
+#tactile input.submit{
+margin-top: 10px;
+display: inline;
+}
+
+#tactile img{
+border: none;
+text-decoration: none;
+position: relative;
+top: 5px;
+left: 5px;
+}
